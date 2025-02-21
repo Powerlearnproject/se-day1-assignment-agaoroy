@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-.Ensures High-Quality Software:by Testing and debugging help ensure software security and functionality.
+.Ensures High-Quality Software:By Testing and debugging help ensure software security and functionality.
 .Facilitates Collaboration and Teamwork:Software development requires collaboration among developers, designers, project managers, and stakeholders.
 .Improves Efficiency and Productivity:Automation, reusable code, and software frameworks streamline development, reducing time-to-market.
 
