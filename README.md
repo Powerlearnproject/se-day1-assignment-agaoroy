@@ -5,11 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-.Ensures High-Quality Software:By Testing and debugging help ensure software security and functionality.
+.Ensures High-Quality Software-By Testing and debugging help ensure software security and functionality.
 .Facilitates Collaboration and Teamwork:Software development requires collaboration among developers, designers, project managers, and stakeholders.
 .Improves Efficiency and Productivity:Automation, reusable code, and software frameworks streamline development, reducing time-to-market.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
 
 
